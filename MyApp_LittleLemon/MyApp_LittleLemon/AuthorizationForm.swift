@@ -44,7 +44,7 @@ struct AuthorizationView: View {
                                                         green: 76.0/255.0,
                                                         blue: 69.0/255.0,
                                                         alpha: 1.0)))
-                .cornerRadius(10)
+//                .cornerRadius(10)
                 
                 VStack(alignment: .leading, spacing: 15) {
                     Text("Name *")
